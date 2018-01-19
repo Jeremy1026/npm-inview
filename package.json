@@ -1,8 +1,8 @@
 {
-  "name": "inview",
+  "name": "elementinview",
   "version": "1.0.0",
   "description": "Determine if element(s) is in the current view point.",
-  "main": "index.js",
+  "main": "in-view.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
